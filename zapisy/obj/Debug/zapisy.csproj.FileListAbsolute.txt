@@ -1,0 +1,138 @@
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\csc.exe
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\vbc.exe
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\VBCSCompiler.exe
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\zapisy.dll.config
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\zapisy.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\zapisy.pdb
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Antlr3.Runtime.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\EntityFramework.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\EntityFramework.SqlServer.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Newtonsoft.Json.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Owin.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Helpers.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Mvc.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Optimization.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Razor.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Razor.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\WebGrease.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Helpers.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Mvc.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Optimization.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.Razor.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Razor.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Antlr3.Runtime.pdb
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Newtonsoft.Json.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\EntityFramework.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\EntityFramework.SqlServer.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\obj\Debug\zapisy.dll
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\obj\Debug\zapisy.pdb
+C:\Users\EB\Desktop\Projekt Zespołowy\Zapisy\zapisy\zapisy\obj\Debug\zapisy.csprojResolveAssemblyReference.cache
+J:\Zapisy\zapisy\zapisy\bin\roslyn\csc.exe
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\Zapisy\zapisy\zapisy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\Zapisy\zapisy\zapisy\bin\roslyn\System.Collections.Immutable.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\System.Reflection.Metadata.dll
+J:\Zapisy\zapisy\zapisy\bin\roslyn\vbc.exe
+J:\Zapisy\zapisy\zapisy\bin\roslyn\VBCSCompiler.exe
+J:\Zapisy\zapisy\zapisy\bin\roslyn\VBCSCompiler.exe.config
+J:\Zapisy\zapisy\zapisy\bin\zapisy.dll.config
+J:\Zapisy\zapisy\zapisy\bin\zapisy.dll
+J:\Zapisy\zapisy\zapisy\bin\zapisy.pdb
+J:\Zapisy\zapisy\zapisy\bin\Antlr3.Runtime.dll
+J:\Zapisy\zapisy\zapisy\bin\EntityFramework.dll
+J:\Zapisy\zapisy\zapisy\bin\EntityFramework.SqlServer.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Core.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Cookies.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Facebook.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Google.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.OAuth.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Twitter.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Web.Infrastructure.dll
+J:\Zapisy\zapisy\zapisy\bin\Newtonsoft.Json.dll
+J:\Zapisy\zapisy\zapisy\bin\Owin.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Helpers.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Mvc.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Optimization.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Razor.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Deployment.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.dll
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Razor.dll
+J:\Zapisy\zapisy\zapisy\bin\WebGrease.dll
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Helpers.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Mvc.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Optimization.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.Razor.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Deployment.xml
+J:\Zapisy\zapisy\zapisy\bin\System.Web.WebPages.Razor.xml
+J:\Zapisy\zapisy\zapisy\bin\Antlr3.Runtime.pdb
+J:\Zapisy\zapisy\zapisy\bin\Newtonsoft.Json.xml
+J:\Zapisy\zapisy\zapisy\bin\EntityFramework.xml
+J:\Zapisy\zapisy\zapisy\bin\EntityFramework.SqlServer.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Core.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Facebook.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Cookies.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.OAuth.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Google.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.Twitter.xml
+J:\Zapisy\zapisy\zapisy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\Zapisy\zapisy\zapisy\obj\Debug\zapisy.csprojResolveAssemblyReference.cache
+J:\Zapisy\zapisy\zapisy\obj\Debug\zapisy.dll
+J:\Zapisy\zapisy\zapisy\obj\Debug\zapisy.pdb

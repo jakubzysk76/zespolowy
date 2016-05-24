@@ -1,0 +1,55 @@
+﻿@model zapisy.Models.Zespol
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Zespol</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nazwa)
+        </dd>
+
+        <dt>Lista studentów w zespole</dt>
+        <dd>
+
+
+            <table class="table">
+
+                <tr>
+                    <th>Imie</th>
+                    <th>Nazwisko</th>
+                </tr>
+                @foreach (var item in Model.Student)
+                {
+                    <tr>
+
+                        <td>
+
+                            @Html.DisplayFor(modelItem => item.Imie)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nazwisko)
+                        </td>
+
+
+                    </tr>
+
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ZespolID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
